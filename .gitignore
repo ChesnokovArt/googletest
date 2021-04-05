@@ -12,6 +12,7 @@ bazel-testlogs
 *.pyc
 
 # Visual Studio files
+*.vcxproj
 .vs
 *.sdf
 *.opensdf
